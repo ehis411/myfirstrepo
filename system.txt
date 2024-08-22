@@ -1,0 +1,14 @@
+Managing System Units:
+sudo systemctl intall/uninstall apache2
+sudo systemctl stop/start/restart apache2
+systemctl status apache2
+sudo apt install firefox
+
+Viewing Logs
+Cat /var/log/syslog
+Cd /var/log
+
+Managing Users:
+Cat /etc/passwd
+To create user: sudo adduser user_name
+Lsd –l /home
