@@ -1,0 +1,9 @@
+Skills Required:
+•	Learn a programming language, The basics
+•	Learn about operating systems e.g Linux, windows 
+•	Server management
+•	Learn about networking and security
+•	Learn about infrastructure as code
+•	Learn how to use continuous integration and continuous delivery tools
+•	Learn about Application and Infrastructure monitoring tools
+•	Learn about cloud Owners
